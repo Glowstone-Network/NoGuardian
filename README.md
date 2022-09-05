@@ -29,3 +29,8 @@ By changing your DNS server, you can use LTBEEF, even if bookmarklets are blocke
 3. Navigate to <a href="https://chrome.google.com/webstorex">https://chrome.google.com/webstorex</a>
 and click on the bookmark. 
 4. Flip the switches on the extentions you want to disable. 
+
+### DOWNGRADE YOUR CHROMEBOOK
+ Allows you to use patched exploits (ex. LTBEEF or SideTracked)
+ 
+[How-to](https://github.com/Glowstone-Network/NoGuardian/blob/main/chromebooks/downgrade.md) 
